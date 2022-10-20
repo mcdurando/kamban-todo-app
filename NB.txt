@@ -1,0 +1,35 @@
+***TableTask***
+task_name
+description
+status (not start , loading , done)
+created
+duration
+priority (high , middle , low)
+#assignee
+
+**** user **** 
+name
+lastname
+username 
+email
+pwd
+
+#PèreFils
+user réaliser tâche
+1..n			1..1			
+
+https://www.itsolutionstuff.com/post/laravel-9-rest-api-authentication-using-sanctum-tutorialexample.html
+https://stackoverflow.com/questions/26437342/laravel-migration-best-way-to-add-foreign-key
+
+https://blog.logrocket.com/getting-started-vue-draggable/
+https://vuejsexamples.com/a-simple-vue-3-drag-and-drop-component/
+https://bestofvue.com/repo/SortableJS-vue-draggable-next
+
+https://codingdriver.com/laravel-vuejs-api-authentication-using-passport.html
+
+---- VueJS Laravel Sanctum Auth -----
+https://www.youtube.com/watch?v=8wDPRnyKLWI
+---- Form validation ------
+https://www.youtube.com/watch?v=2BR6Vvjw3wQ
+-------- CRUD Axios -------
+https://www.bezkoder.com/vue-3-crud/

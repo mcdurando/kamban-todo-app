@@ -1,0 +1,42 @@
+############### FRONT-END ######################
+/todo-front/.DS_Store
+/todo-front/node_modules
+/todo-front/dist
+
+# local env files
+/todo-front/.env.local
+/todo-front/.env.*.local
+
+# Log files
+/todo-front/npm-debug.log*
+/todo-front/yarn-debug.log*
+/todo-front/yarn-error.log*
+/todo-front/pnpm-debug.log*
+
+# Editor directories and files
+/todo-front/.idea
+/todo-front/.vscode
+/todo-front/*.suo
+/todo-front/*.ntvs*
+/todo-front/*.njsproj
+/todo-front/*.sln
+/todo-front/*.sw?
+
+
+################## BACK-END #################
+/todo-back/node_modules
+/todo-back/public/build
+/todo-back/public/hot
+/todo-back/public/storage
+/todo-back/storage/*.key
+/todo-back/vendor
+/todo-back/.env
+/todo-back/.env.backup
+/todo-back/.phpunit.result.cache
+/todo-back/Homestead.json
+/todo-back/Homestead.yaml
+/todo-back/auth.json
+/todo-back/npm-debug.log
+/todo-back/yarn-error.log
+/todo-back/.idea
+/todo-back/.vscode
